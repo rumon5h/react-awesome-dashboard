@@ -19,7 +19,7 @@ import Deposited from './componenst/deposited/deposited';
 const router = createBrowserRouter([
    
     {
-      path: "/dashboard",
+      path: "/",
       element: <Dashboard/>,
       children: [
         {
